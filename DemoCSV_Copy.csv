@@ -1,0 +1,56 @@
+Code,Birthplace,Census_night_population_count,Census_usually_resident_population_count
+0001,At sea,15,15
+1000,Oceania and Antarctica (not further defined),0,0
+1101,Australia,83622,75696
+1102,Norfolk Island,114,108
+2307,Monaco,21,18
+2308,Netherlands,21333,19329
+2311,Switzerland,4239,3291
+2400,Northern Europe (not further defined),0,0
+2401,Denmark,2214,1563
+2402,Faeroe Islands,15,15
+2403,Finland,888,702
+2404,Greenland,12,12
+2405,Iceland,144,120
+8204,Chile,4179,3936
+8205,Colombia,2709,2583
+8206,Ecuador,270,258
+8411,Dominican Republic,45,45
+8412,Grenada,12,9
+8413,Guadeloupe,12,9
+8414,Haiti,21,15
+8415,Jamaica,276,258
+8416,Martinique,15,12
+8417,Montserrat,3,3
+8421,Puerto Rico,39,36
+8422,St Kitts and Nevis,6,6
+8423,St Lucia,24,21
+8424,St Vincent and the Grenadines,24,24
+8425,Trinidad and Tobago,240,222
+8426,Turks and Caicos Islands,3,3
+8427,"Virgin Islands, British",12,12
+8428,"Virgin Islands, United States",6,6
+8433,Curacao,48,42
+8434,St Maarten (Dutch Part),9,6
+9000,Sub-Saharan Africa (not further defined),0,0
+9100,Central and West Africa (not further defined),12,12
+9101,Benin,6,6
+9102,Burkina Faso,3,3
+9103,Cameroon,60,54
+9104,Cabo Verde,6,6
+9105,Central African Republic,3,3
+9106,Chad,9,9
+9107,Congo,189,180
+9108,"Congo, the Democratic Republic of the",177,174
+9111,C�te d'Ivoire,15,15
+9112,Equatorial Guinea,3,3
+9113,Gabon,18,18
+9114,Gambia,15,12
+9115,Ghana,441,432
+9116,Guinea,0,0
+9117,Guinea-Bissau,3,3
+9299,Southern and East Africa nec,0,0
+0000,Inadequately described,921,432
+9999,Not stated,59376,57426
+TotalStated,Total stated,4733061,4641897
+Total,Total,4793358,4699755

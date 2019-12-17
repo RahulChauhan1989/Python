@@ -1,0 +1,56 @@
+Birthplace	Code	Census_night_population_count	Census_usually_resident_population_count
+At sea	0001	15	15
+Oceania and Antarctica (not further defined)	1000	0	0
+Australia	1101	83622	75696
+Norfolk Island	1102	114	108
+Monaco	2307	21	18
+Netherlands	2308	21333	19329
+Switzerland	2311	4239	3291
+Northern Europe (not further defined)	2400	0	0
+Denmark	2401	2214	1563
+Faeroe Islands	2402	15	15
+Finland	2403	888	702
+Greenland	2404	12	12
+Iceland	2405	144	120
+Chile	8204	4179	3936
+Colombia	8205	2709	2583
+Ecuador	8206	270	258
+Dominican Republic	8411	45	45
+Grenada	8412	12	9
+Guadeloupe	8413	12	9
+Haiti	8414	21	15
+Jamaica	8415	276	258
+Martinique	8416	15	12
+Montserrat	8417	3	3
+Puerto Rico	8421	39	36
+St Kitts and Nevis	8422	6	6
+St Lucia	8423	24	21
+St Vincent and the Grenadines	8424	24	24
+Trinidad and Tobago	8425	240	222
+Turks and Caicos Islands	8426	3	3
+Virgin Islands, British	8427	12	12
+Virgin Islands, United States	8428	6	6
+Curacao	8433	48	42
+St Maarten (Dutch Part)	8434	9	6
+Sub-Saharan Africa (not further defined)	9000	0	0
+Central and West Africa (not further defined)	9100	12	12
+Benin	9101	6	6
+Burkina Faso	9102	3	3
+Cameroon	9103	60	54
+Cabo Verde	9104	6	6
+Central African Republic	9105	3	3
+Chad	9106	9	9
+Congo	9107	189	180
+Congo, the Democratic Republic of the	9108	177	174
+C�te d'Ivoire	9111	15	15
+Equatorial Guinea	9112	3	3
+Gabon	9113	18	18
+Gambia	9114	15	12
+Ghana	9115	441	432
+Guinea	9116	0	0
+Guinea-Bissau	9117	3	3
+Southern and East Africa nec	9299	0	0
+Inadequately described	0000	921	432
+Not stated	9999	59376	57426
+Total stated	TotalStated	4733061	4641897
+Total	Total	4793358	4699755
